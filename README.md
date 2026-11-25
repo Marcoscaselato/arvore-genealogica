@@ -4,7 +4,7 @@
 
 Repositório dedicado ao mapeamento das gerações e profissões da minha família.
 
-📄 **[Acesse aqui o documento completo da pesquisa (`pesquisa.md`)]([https://github.com/Marcoscaselato/portfolio/blob/main/pesquisa.md](https://github.com/Marcoscaselato/arvore-genealogica/blob/main/pesquisa.md))**
+📄 **[Acesse aqui o documento completo da pesquisa (`pesquisa.md`)](https://github.com/Marcoscaselato/arvore-genealogica/blob/main/pesquisa.md)**
 
 ---
 
